@@ -11,7 +11,8 @@ item.petMagmaCube.name=宠物岩浆怪
 item.petSheep.name=宠物绵羊
 item.petCow.name=宠物牛
 item.petChicken.name=宠物小鸡
-item.petPig.name=宠物小猪item.petSquid.name=宠物鱿鱼
+item.petPig.name=宠物小猪
+item.petSquid.name=宠物鱿鱼
 item.petOcelot.name=宠物豹猫
 
 item.petFurnace.name=宠物熔炉
