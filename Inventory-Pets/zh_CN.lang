@@ -36,12 +36,12 @@ item.petPufferfish.name=Pufferfish Pet
 item.petQuantumCrystalMonster.name=Quantum Crystal Monster Pet
 
 item.diamondNugget.name=钻石粒
-item.obsidianNugget.name=Obsidian Nugget
-item.coalNugget.name=Coal Nugget
-item.emeraldNugget.name=Emerald Nugget
-item.ironNugget.name=Iron Nugget
-item.enderNugget.name=Ender Nugget
-item.lapisNugget.name=Lapis Nugget
+item.obsidianNugget.name=黑曜石粒
+item.coalNugget.name=煤炭粒
+item.emeraldNugget.name=绿宝石粒
+item.ironNugget.name=铁粒
+item.enderNugget.name=末影粒
+item.lapisNugget.name=青金石粒
 
 tile.cloudblock.name=Cloud Block
 tile.cloudspawn.name=Cloud Spawner
