@@ -1,6 +1,6 @@
-item.petSlime.name=Slime Pet
-item.petGhast.name=Ghast Pet
-item.petWither.name=Wither Pet
+item.petSlime.name=宠物史莱姆
+item.petGhast.name=宠物恶魂
+item.petWither.name=宠物凋零
 item.petCreeper.name=Creeper Pet
 item.petEnderman.name=Enderman Pet
 item.petIronGolem.name=Iron Golem Pet
@@ -15,7 +15,7 @@ item.petPig.name=Pig Pet
 item.petSquid.name=Squid Pet
 item.petOcelot.name=Ocelot Pet
 
-item.petFurnace.name=Furnace Pet
+item.petFurnace.name=宠物熔炉
 item.petEnchantingTable.name=Enchanting Table Pet
 item.petCraftingTable.name=Crafting Table Pet
 item.petChest.name=Chest Pet
@@ -35,7 +35,7 @@ item.petBlackHole.name=Black Hole Pet
 item.petPufferfish.name=Pufferfish Pet
 item.petQuantumCrystalMonster.name=Quantum Crystal Monster Pet
 
-item.diamondNugget.name=Diamond Nugget
+item.diamondNugget.name=钻石粒
 item.obsidianNugget.name=Obsidian Nugget
 item.coalNugget.name=Coal Nugget
 item.emeraldNugget.name=Emerald Nugget
