@@ -1,37 +1,36 @@
 item.petSlime.name=宠物史莱姆
 item.petGhast.name=宠物恶魂
 item.petWither.name=宠物凋零
-item.petCreeper.name=Creeper Pet
-item.petEnderman.name=Enderman Pet
-item.petIronGolem.name=Iron Golem Pet
-item.petSnowGolem.name=Snow Golem Pet
-item.petSpider.name=Spider Pet
-item.petMagmaCube.name=Magma Cube Pet
+item.petCreeper.name=宠物苦力怕
+item.petEnderman.name=宠物末影人
+item.petIronGolem.name=宠物铁傀儡
+item.petSnowGolem.name=宠物雪傀儡
+item.petSpider.name=宠物蜘蛛
+item.petMagmaCube.name=宠物岩浆怪
 
-item.petSheep.name=Sheep Pet
-item.petCow.name=Cow Pet
-item.petChicken.name=Chicken Pet
-item.petPig.name=Pig Pet
-item.petSquid.name=Squid Pet
-item.petOcelot.name=Ocelot Pet
+item.petSheep.name=宠物绵羊
+item.petCow.name=宠物牛
+item.petChicken.name=宠物小鸡
+item.petPig.name=宠物小猪item.petSquid.name=宠物鱿鱼
+item.petOcelot.name=宠物豹猫
 
 item.petFurnace.name=宠物熔炉
-item.petEnchantingTable.name=Enchanting Table Pet
-item.petCraftingTable.name=Crafting Table Pet
-item.petChest.name=Chest Pet
-item.petDoubleChest.name=Double Chest Pet
-item.petBed.name=Bed Pet
-item.petJukebox.name=Jukebox Pet
-item.petAnvil.name=Anvil Pet
-item.petBrewingStand.name=Brewing Stand Pet
+item.petEnchantingTable.name=宠物附魔台
+item.petCraftingTable.name=宠物工作台
+item.petChest.name=宠物箱子
+item.petDoubleChest.name=宠物大箱子
+item.petBed.name=宠物床
+item.petJukebox.name=宠物唱片机
+item.petAnvil.name=宠物铁砧
+item.petBrewingStand.name=宠物酿造台
 
 item.petPingot.name=Pingot Pet
 item.petMickerson.name=Mickerson
 item.petPurpliciousCow.name=Purplicious Cow Pet
-item.petNetherPortal.name=Nether Portal Pet
+item.petNetherPortal.name=宠物下界传送门
 
-item.petCloud.name=Cloud Pet
-item.petBlackHole.name=Black Hole Pet
+item.petCloud.name=宠物云朵
+item.petBlackHole.name=宠物黑洞
 item.petPufferfish.name=Pufferfish Pet
 item.petQuantumCrystalMonster.name=Quantum Crystal Monster Pet
 
