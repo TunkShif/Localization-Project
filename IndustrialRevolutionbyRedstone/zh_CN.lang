@@ -31,21 +31,21 @@ tile.IR2blockTin.name=锡方块
 tile.IR2blockCopper.name=铜方块
 tile.IR2blockSilver.name=银方块
 
-tile.IR2cableTin.name=RS 锡电缆
-tile.IR2cableCopper.name=RS 铜电缆
-tile.IR2cableIron.name=RS 铁电缆
-tile.IR2cableSilver.name=RS 银电缆
-tile.IR2cableGold.name=RS 金电缆
-tile.IR2cableAluminium.name=RS HV电缆
-tile.IR2cableNickel.name=RS HF电缆
+tile.IR2cableTin.name=红石锡电缆
+tile.IR2cableCopper.name=红石铜电缆
+tile.IR2cableIron.name=红石铁电缆
+tile.IR2cableSilver.name=红石银电缆
+tile.IR2cableGold.name=红石金电缆
+tile.IR2cableAluminium.name=红石高压电缆
+tile.IR2cableNickel.name=红石超频电缆
 
-tile.IR2pipeTin.name=RS 锡管道
-tile.IR2pipeCopper.name=RS 铜管道
-tile.IR2pipeIron.name=RS 铁管道
+tile.IR2pipeTin.name=红石锡管道
+tile.IR2pipeCopper.name=红石铜管道
+tile.IR2pipeIron.name=红石铁管道
 tile.IR2pipeSilver.name=RS 银管道
 tile.IR2pipeGold.name=RS 金管道
-tile.IR2pipeAluminium.name=RS HV管道
-tile.IR2pipeNickel.name=RS HF管道
+tile.IR2pipeAluminium.name=RS 高压管道
+tile.IR2pipeNickel.name=RS 超频管道
 
 tile.IR2pipeMining.name=采矿管道
 
