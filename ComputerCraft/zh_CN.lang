@@ -1,0 +1,39 @@
+tile.computercraft:computer.name=电脑
+tile.computercraft:advanced_computer.name=高级电脑
+tile.computercraft:drive.name=磁盘驱动器
+tile.computercraft:printer.name=打印机
+tile.computercraft:monitor.name=监视器
+tile.computercraft:advanced_monitor.name=高级监视器
+tile.computercraft:wireless_modem.name=无线路由器
+tile.computercraft:wired_modem.name=有线路由器
+tile.computercraft:cable.name=网线
+tile.computercraft:command_computer.name=指令电脑
+
+tile.computercraft:turtle.name=海龟
+tile.computercraft:turtle.upgraded.name=%s 海龟
+tile.computercraft:turtle.upgraded_twice.name=%s %s 海龟
+tile.computercraft:advanced_turtle.name=高级海龟
+tile.computercraft:advanced_turtle.upgraded.name=高级 %s 海龟
+tile.computercraft:advanced_turtle.upgraded_twice.name=高级 %s %s 海龟
+
+item.computercraft:disk.name=软盘
+item.computercraft:treasure_disk.name=软盘
+item.computercraft:page.name=打印页
+item.computercraft:pages.name=打印页
+item.computercraft:book.name=打印书
+
+item.computercraft:pocket_computer.name=便携电脑
+item.computercraft:pocket_computer.upgraded.name=%s 便携电脑
+item.computercraft:advanced_pocket_computer.name=高级便携电脑
+item.computercraft:advanced_pocket_computer.upgraded.name=高级 %s 便携电脑
+
+upgrade.minecraft:diamond_sword.adjective=战斗
+upgrade.minecraft:diamond_shovel.adjective=挖掘
+upgrade.minecraft:diamond_pickaxe.adjective=采矿
+upgrade.minecraft:diamond_axe.adjective=伐木
+upgrade.minecraft:diamond_hoe.adjective=农耕
+upgrade.computercraft:wireless_modem.adjective=无线
+upgrade.minecraft:crafting_table.adjective=灵巧
+
+gui.computercraft:wired_modem.peripheral_connected=外部设备 "%s" 连接到网络
+gui.computercraft:wired_modem.peripheral_disconnected=外部设备 "%s" 从网络断开
