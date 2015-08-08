@@ -59,9 +59,9 @@ item.gemWEAPON.name=武器宝石
 item.nucleusSTAR.name=星之核心
 item.gemSTAR.name=星之宝石
 
-item.tome.RAYFIRE.name=火花宝典
-item.tome.SCYTHEWIND.name=旋风宝典
-item.tome.EXEUNT.name=回退宝典
+item.tome.RAYFIRE.name=火花卷册
+item.tome.SCYTHEWIND.name=旋风卷册
+item.tome.EXEUNT.name=回退卷册
 
 
 item.dustBreak.name=溶解粉尘
@@ -73,7 +73,7 @@ item.phoenixFeather.name=凤凰火羽
 item.azuriteDust.name=蓝铜粉尘
 item.azuriteDot.name=蓝铜缀孔
 item.azuriteSphere.name=蓝铜晶体
-item.blankSpellbook.name=空白技能书
+item.blankSpellbook.name=空白咒文书
 item.blankEmblem.name=空白纹章
 item.phoenixEmblem.name=凤凰纹章
 item.phoenixCharm.name=凤凰咒文
@@ -90,8 +90,8 @@ item.twinkleStaff.name=闪烁之杖
 item.fireStaff.name=残焰之杖
 item.iceStaff.name=霜冻之杖
 item.zapStaff.name=颠簸之杖
-item.infernoScroll.name=阴间卷册
-item.scythewindScroll.name=旋风卷册
+item.infernoScroll.name=阴间卷轴
+item.scythewindScroll.name=旋风卷轴
 
 item.SPEED_RING.name=冲撞指环
 item.SPEED_RING.desc=极速冲刺的少年
@@ -147,72 +147,72 @@ tile.skylensBlock.name=苍穹棱镜
 
 
 
-death.attack.soul=%1$s paid too high a price
-death.attack.caltrops=%1$s died of perforated feet
-death.attack.caltrops.player=%1$s stepped on caltrops whilst trying to escape %2$s
-death.attack.magic.Explosion=%1$s was careless with explosives
-death.attack.magic.Explosion.player=%1$s got blown up by %1$s
-death.attack.magic.Lightning=%1$s was electrocuted by magic
-death.attack.magic.Lightning.player=%1$s was electrocuted by %2$s's spell
-death.attack.magic.Fire=%1$s was incinerated by magic
-death.attack.magic.Fire.player=%1$s was roasted by %2$s's spell
-death.attack.magic.Ice=%1$s was frozen solid by magic
-death.attack.magic.Ice.player=%1$s was put on ice by %2$s
-death.attack.magic.Star=%1$s was twinkled to death
-death.attack.magic.Star.player=%1$s was fatally scintillated by %2$s's magic
-death.attack.magic.Wind=%1$s experienced some turbulence
-death.attack.magic.Wind.player=%1$s was blown away by %2$s's magic
-death.attack.magic.Radiant=%1$s saw the light
-death.attack.magic.Radiant.player=%1$s was enlightened by %2$s
+death.attack.soul=%1$s 付出了惨重的代价
+death.attack.caltrops=%1$s 因足下穿孔而死
+death.attack.caltrops.player=%1$s 踩到了铁蒺藜并试图逃跑至 %2$s
+death.attack.magic.Explosion=%1$s 死于一场粗心大意引发的爆炸
+death.attack.magic.Explosion.player=%1$s 被 %1$s 轰炸而死
+death.attack.magic.Lightning=%1$s 触碰魔法而死
+death.attack.magic.Lightning.player=%1$s 触碰了 %2$s的咒文而死
+death.attack.magic.Fire=%1$s 被魔法燃烧成了灰烬
+death.attack.magic.Fire.player=%1$s 被 %2$s的咒文烤的酥脆
+death.attack.magic.Ice=%1$s 被魔法冰冻
+death.attack.magic.Ice.player=%1$s 被 %2$s 施加了冰冻
+death.attack.magic.Star=%1$s 被闪瞎
+death.attack.magic.Star.player=%1$s 遭受到了 %2$s的魔法的致命闪烁
+death.attack.magic.Wind=%1$s 亲身体验了一场风暴
+death.attack.magic.Wind.player=%1$s 被 %2$s的魔法吹得老远了
+death.attack.magic.Radiant=%1$s 目睹了闪电
+death.attack.magic.Radiant.player=%1$s 受到了 %2$s 的启发
 
-death.attack.exhaustion=%1$s died of exhaustion
+death.attack.exhaustion=%1$s 因疲惫过度而死
 
 
 
-enchantment.magicProtection=Magic Protection
-enchantment.spellReach=Reach
-enchantment.spellSpread=Spread
-enchantment.spellArmored=Fortitude
+enchantment.magicProtection=魔防
+enchantment.spellReach=搜寻
+enchantment.spellSpread=传播
+enchantment.spellArmored=坚韧
 
-achievement.starGet=Star Catcher
-achievement.starGet.desc=Collect a fallen star before it fades away
-achievement.ritualist=Ritualist
-achievement.ritualist.desc=Successfully invoke a ritual
-achievement.mage=Wizardry
-achievement.mage.desc=Cast a spell using a staff
-achievement.readScroll=Read Magic
-achievement.readScroll.desc=Cast a spell using a scroll
-achievement.phoenixBoon=Favor of the Phoenix
-achievement.phoenixBoon.desc=Be granted a boon by the Phoenix
-achievement.fortunate=Fortunate
-achievement.fortunate.desc=Eat a fortune cookie
-achievement.boomerang=Loyal Weaponry
-achievement.boomerang.desc=Craft a boomerang
-achievement.dayRitual=Play It By Ear
-achievement.dayRitual.desc=Perform a ritual during the day
-achievement.starsteel=Meteoric
-achievement.starsteel.desc=Create starsteel
-achievement.literate=Literate
-achievement.literate.desc=Cast a spell using a tome
-achievement.achvAzurite=More Dots
-achievement.achvAzurite.desc=Obtain unbroken azurite
-achievement.flight=To The Skies!
-achievement.flight.desc=Take flight
-achievement.sunfireDiamond=Phoenix's Treasure
-achievement.sunfireDiamond.desc=Collect a Sunfire Diamond
+achievement.starGet=星星猎人
+achievement.starGet.desc=收集一颗陨星在它消逝之前
+achievement.ritualist=仪式者
+achievement.ritualist.desc=完成祈祷仪式
+achievement.mage=法术
+achievement.mage.desc=用法杖施展咒文
+achievement.readScroll=阅读魔法
+achievement.readScroll.desc=用卷轴施展咒文
+achievement.phoenixBoon=凤凰之悦
+achievement.phoenixBoon.desc=接受凤凰之恩赐
+achievement.fortunate=幸运儿
+achievement.fortunate.desc=吃一块幸运饼干
+achievement.boomerang=忠诚之器
+achievement.boomerang.desc=合成回旋镖
+achievement.dayRitual=随机应变
+achievement.dayRitual.desc=在日间完成仪式
+achievement.starsteel=眼花缭乱
+achievement.starsteel.desc=合成星之钢锭
+achievement.literate=大文人
+achievement.literate.desc=用卷册施展咒文
+achievement.achvAzurite=更多的洞
+achievement.achvAzurite.desc=获得完整蓝铜矿
+achievement.flight=飞往蓝天!
+achievement.flight.desc=起飞吧
+achievement.sunfireDiamond=凤凰的宝藏
+achievement.sunfireDiamond.desc=收集一颗阳炎钻石
 
 
 itemGroup.lgTab=传奇法袍 2
 
-attribute.name.lg2.criticalBonus=Critical Strike Damage
-attribute.name.lg2.arcanePower=技能伤害
+attribute.name.lg2.criticalBonus=暴击伤害
+attribute.name.lg2.arcanePower=咒文伤害
 attribute.name.lg2.spellSurgePower=浪涌升压
-attribute.name.lg2.spellRange=技能范围
-attribute.name.lg2.spellRadius=技能半径
+attribute.name.lg2.spellRange=咒文范围
+attribute.name.lg2.spellRadius=咒文半径
 
 attribute.name.lg2.spellDamageRatio=技能伤害比
 attribute.name.lg2.spellDurationRatio=技能持续比
-attribute.name.lg2.armorPenaltyScaling=Armor Penalty Multiplier
+attribute.name.lg2.armorPenaltyScaling=装备惩罚比
 
-lg2text.armorPenaltyAnnotation=(Armored: -%1$d%% casting speed)
+lg2text.armorPenaltyAnnotation=(装备: -%1$d%% 分配速度)
 
