@@ -1,0 +1,21 @@
+itemGroup.amtgen=AMT Generators
+
+chat.amtgen.newOwnerMessage=Welcome master %s
+chat.amtgen.notOwnerMessage=You aren't my master
+chat.amtgen.active=Active
+chat.amtgen.notActive=Not active
+chat.amtgen.lpStats=Essence: %s LP
+chat.amtgen.chargeStats=Power: %s Charge
+
+container.amtgen.fuelGenerator=Fuel Generator
+
+hud.amtgen.active=Active
+hud.amtgen.yes=Yes
+hud.amtgen.no=No
+
+tooltip.amtgen.charge=Charge
+
+tile.amtgen.fuelGenerator.name=Fuel Generator
+tile.amtgen.solarGenerator.name=Solar Generator
+tile.amtgen.lpTransformer.name=LP Transformer
+tile.amtgen.manaTransformer.name=Mana Transformer

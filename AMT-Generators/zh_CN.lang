@@ -1,0 +1,21 @@
+itemGroup.amtgen=AMT Generators
+
+chat.amtgen.newOwnerMessage=欢迎主人 %s
+chat.amtgen.notOwnerMessage=你不是我的主人
+chat.amtgen.active=激活
+chat.amtgen.notActive=未激活
+chat.amtgen.lpStats=源质: %s LP
+chat.amtgen.chargeStats=能量: %s 电量
+
+container.amtgen.fuelGenerator=燃料发电机
+
+hud.amtgen.active=激活
+hud.amtgen.yes=是
+hud.amtgen.no=否
+
+tooltip.amtgen.charge=电量
+
+tile.amtgen.fuelGenerator.name=燃料发电机
+tile.amtgen.solarGenerator.name=太阳能发电机
+tile.amtgen.lpTransformer.name=LP转换器
+tile.amtgen.manaTransformer.name=魔力转换器
