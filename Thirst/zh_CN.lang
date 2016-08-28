@@ -1,0 +1,34 @@
+//blocks
+tile.rain_collector.name=雨水收集器
+tile.drinks_brewer.name=饮料酿造器
+tile.drinks_store.name=饮料商店
+
+//items
+item.dirty_filter.name=肮脏过滤器
+item.filter.name=过滤器
+item.gold_coin.name=金币
+item.charcoal_filter.name=木炭过滤器
+item.cup.name=木杯
+item.water_cup.name=水杯
+item.filtered_water_cup.name=清洁水杯
+item.fresh_water.name=纯净水杯
+item.milk_bottle.name=牛奶瓶
+item.chocolate_milk.name=巧克力牛奶
+item.clean_bucket.name=清洁水桶
+
+item.canteen.0.name=空水壶
+
+item.canteen.1.name=水壶 1/5
+item.canteen.2.name=水壶 2/5
+item.canteen.3.name=水壶 3/5
+item.canteen.4.name=水壶 4/5
+item.canteen.5.name=水壶
+
+item.canteen.6.name=清洁水壶 1/5
+item.canteen.7.name=清洁水壶 2/5
+item.canteen.8.name=清洁水壶 3/5
+item.canteen.9.name=清洁水壶 4/5
+item.canteen.10.name=清洁水壶
+
+//other
+itemGroup.drinks=Thirst Mod

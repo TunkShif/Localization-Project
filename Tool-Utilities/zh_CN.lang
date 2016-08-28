@@ -1,0 +1,35 @@
+
+# Tooltips #
+toolUtils.tooltip.upgradesOn=当前升级:
+toolUtils.tooltip.upgradesPossible=可用升级:
+toolUtils.tooltip.pressShift=按住 %sShift%s 查看升级信息
+toolUtils.tooltip.pressControl=按住 %sControl%s 查看集成信息
+toolUtils.tooltip.requiredItem=材料需求:
+toolUtils.tooltip.upgradeInstructions=在铁砧中以应用
+toolUtils.upgrade.place.tooltip=放置: 能够使用物品以放置方块
+toolUtils.upgrade.threexone.tooltip=3x1: 挖掘垂直的3x1长方形
+toolUtils.upgrade.threexthree.tooltip=3x3: 挖掘3x3的正方形
+toolUtils.upgrade.hoexthree.tooltip=AOE: 采集3x3的草
+toolUtils.upgrade.sword_aoe.tooltip=AOE: 击杀附近区域的生物
+
+# Config #
+toolUtils.config.title=Tool Utilities Configuration
+
+toolUtils.config.rightclick=Right Click Upgrade Settings
+toolUtils.config.rightclick.tooltip=Settings for the Place upgrade
+
+toolUtils.config.areamining=AOE Mining Upgrade Settings
+toolUtils.config.areamining.tooltip=Settings for the 3x1 and 3x3 upgrades
+
+toolUtils.config.hoearea=Hoe Upgrade Settings
+toolUtils.config.hoearea.tooltip=Settings for the hoe upgrade
+
+toolUtils.config.swordarea=Sword Upgrade Settings
+toolUtils.config.swordarea.tooltip=Settings for the sword upgrade
+
+toolUtils.config.featuresallowed=Feature Enabling/Disabling
+toolUtils.config.featuresallowed.tooltip=Enable and Disable upgrades globally
+
+# Names #
+broken=破损的
+brokentool.null=破损的工具 (无数据)

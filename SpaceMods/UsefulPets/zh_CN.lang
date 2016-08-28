@@ -1,0 +1,146 @@
+item.petWand.name=宠物法杖
+item.petWand.tooltip.help.convert=左键单击原版已驯服的生物作为宠物.
+item.petWand.tooltip.help.track=右键单击方块以查询你所拥有的宠物.
+item.petWand.tooltip.help.more=右键单击宠物以获取更多帮助.
+item.clawIron.name=铁爪
+item.clawGold.name=金爪
+item.clawDiamond.name=钻石爪
+item.domesticEgg.name=已驯养的宠物刷怪蛋
+item.domesticEgg.tooltip.creative=注意: 在创造模式下无法正确使用.
+item.domesticEgg.tooltip.holding=包含: %s
+item.domesticEgg.tooltip.name=名字: %s
+item.domesticEgg.tooltip.level=等级: %s
+
+entity.pet.cat=猫
+entity.pet.dog=狗
+entity.pet.pig=猪
+entity.pet.slime=史莱姆
+entity.pet.silverfish=蠹虫
+
+gui.pet.inventory=宠物背包
+gui.pet.skills=技能
+gui.pet.title=宠物技能
+gui.pet.level=等级
+gui.pet.freePoints=剩余点数
+gui.pet.skillReq=需求
+gui.pet.levelReq=等级需求
+gui.pet.tracking=宠物追踪 (上次查看)
+gui.pet.tracking.level=等级 %s
+gui.pet.tracking.dim=维度 %s
+gui.pet.tracking.pos=坐标 (%s, %s, %s)
+
+chat.pet.convert.success=已驯服!
+chat.pet.convert.notTamed=该生物不能被驯服!
+chat.pet.convert.needOwnership=这不是你的宠物.
+chat.pet.convert.weakness=该种生物必须在虚弱状态下驯服.
+chat.pet.convert.notSmallSlime=只有小型史莱姆才能被驯服.
+chat.pet.convert.failure=该宠物不能被驯服.
+chat.pet.help.level=左键单击已驯服的宠物以升级.
+chat.pet.help.inv=潜行右击已驯服的宠物以查看背包以及培养技能.
+chat.pet.level.success=你的宠物已升级!
+chat.pet.level.max=你的宠物已经最高级了.
+chat.pet.level.missing=缺少: %s x %s
+chat.pet.notYours=这不是你的宠物, 它属于 %s.
+
+misc.level.name=等级
+
+pet.skill.hunger.name=饥饿
+pet.skill.hunger.desc=允许进食
+pet.skill.hunger.eatOther.name=其它食物
+pet.skill.hunger.eatOther.desc=食用其它物种的食物
+pet.skill.hunger.eatPlants.name=植物食物
+pet.skill.hunger.eatPlants.desc=允许食用植物性食物
+pet.skill.hunger.eatProcessed.name=加工食物
+pet.skill.hunger.eatProcessed.desc=允许食用经过加工的人类的食物
+pet.skill.hunger.eatGross.name=劣质食物
+pet.skill.hunger.eatGross.desc=允许食用蜘蛛眼和腐肉
+
+pet.skill.combat.name=战斗
+pet.skill.combat.desc=造成木剑的伤害
+pet.skill.combat.upgrade1.name=伤害升级 (1)
+pet.skill.combat.upgrade1.desc=造成石剑的伤害
+pet.skill.combat.upgrade2.name=伤害升级 (2)
+pet.skill.combat.upgrade2.desc=造成铁剑的伤害
+pet.skill.combat.upgrade3.name=伤害升级 (3)
+pet.skill.combat.upgrade3.desc=造成钻石剑的伤害
+pet.skill.combat.hostile.name=敌意
+pet.skill.combat.hostile.desc=攻击视野内的敌对生物.
+
+pet.skill.repellant.name=生物排斥
+pet.skill.repellant.desc=远离爬行者
+pet.skill.repellant.larger.name=范围升级
+pet.skill.repellant.larger.desc=增加范围
+pet.skill.repellant.undead.name=亡灵生物排斥
+pet.skill.repellant.undead.desc=远离亡灵生物
+pet.skill.repellant.spiders.name=臭虫排斥
+pet.skill.repellant.spiders.desc=远离可怕的虫子
+
+pet.skill.inventory.name=背包
+pet.skill.inventory.desc=允许宠物拥有3格的背包
+pet.skill.inventory.upgrade1.name=槽位升级 (1)
+pet.skill.inventory.upgrade1.desc=增加3格背包
+pet.skill.inventory.upgrade2.name=槽位升级 (2)
+pet.skill.inventory.upgrade2.desc=增加3格背包
+pet.skill.inventory.upgrade3.name=槽位升级 (3)
+pet.skill.inventory.upgrade3.desc=增加3格背包
+pet.skill.inventory.upgrade4.name=槽位升级 (4)
+pet.skill.inventory.upgrade4.desc=增加3格背包
+pet.skill.inventory.selfSufficient.name=自我进食
+pet.skill.inventory.selfSufficient.desc=允许宠物自己食用背包内的食物
+pet.skill.inventory.armor.name=盔甲槽
+pet.skill.inventory.armor.desc=允许宠物装备盔甲
+pet.skill.inventory.weapon.name=武器槽
+pet.skill.inventory.weapon.desc=允许宠物装备武器
+pet.skill.inventory.pickup.name=自动拾取
+pet.skill.inventory.pickup.desc=宠物会自动捡起物品进入背包.
+
+pet.skill.defense.name=防护
+pet.skill.defense.desc=抵消10%的伤害
+pet.skill.defense.upgrade1.name=防护扩展 (1)
+pet.skill.defense.upgrade1.desc=抵消15%的伤害
+pet.skill.defense.upgrade2.name=防护扩展 (2)
+pet.skill.defense.upgrade2.desc=抵消25%的伤害
+pet.skill.defense.fire.name=火焰免疫
+pet.skill.defense.fire.desc=不受岩浆和火焰的伤害
+pet.skill.defense.breathless.name=窒息
+pet.skill.defense.breathless.desc=免疫窒息和溺水死亡
+pet.skill.defense.featherFall.name=羽落
+pet.skill.defense.featherFall.desc=免疫掉落伤害
+
+pet.skill.travel.name=旅行
+pet.skill.travel.desc=增加20%的奔跑速度
+pet.skill.travel.upgrade1.name=极速 (1)
+pet.skill.travel.upgrade1.desc=增加20%的奔跑速度
+pet.skill.travel.upgrade2.name=极速 (2)
+pet.skill.travel.upgrade2.desc=增加30%的奔跑速度
+pet.skill.travel.mountable.name=骑行
+pet.skill.travel.mountable.desc=允许你用鞍骑在宠物身上
+pet.skill.travel.aquaticMount.name=游泳
+pet.skill.travel.aquaticMount.desc=允许你骑着宠物在水中
+pet.skill.travel.swimControl.name=游泳掌控
+pet.skill.travel.swimControl.desc=允许你控制宠物在水中的升降
+pet.skill.travel.mountJump.name=跳跃
+pet.skill.travel.mountJump.desc=允许你骑着宠物时跳跃
+
+pet.skill.health.name=生命升级 (1)
+pet.skill.health.desc=增加5颗心的生命
+pet.skill.health.upgrade1.name=生命升级 (2)
+pet.skill.health.upgrade1.desc=增加5颗心的生命
+
+pet.texture=材质: %s
+
+pet.texture.cat.red=红色
+pet.texture.cat.siamese=暹罗
+pet.texture.cat.black=黑色
+pet.texture.cat.ocelot=豹猫
+
+pet.texture.dog.wolf_tame=狼 (已驯服)
+pet.texture.dog.wolf=狼
+pet.texture.dog.wolf_angry=狼 (愤怒)
+
+pet.texture.pig.pig=猪
+
+pet.texture.slime.slime=史莱姆
+pet.texture.slime.magmacube=岩浆怪
+
+pet.texture.silverfish.silverfish=蠹虫
