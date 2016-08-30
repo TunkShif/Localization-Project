@@ -1,0 +1,884 @@
+//Blocks
+
+tile.blockRubber.name=橡胶片
+tile.blockRubSapling.name=橡胶树苗
+tile.blockRubWood.name=橡胶原木
+tile.blockCrop.name=作物架
+
+tile.blockOreUran.name=铀矿石
+tile.blockOreTin.name=锡矿石
+tile.blockOreCopper.name=铜矿石
+
+tile.blockScaffold.name=脚手架
+tile.blockIronScaffold.name=铁质脚手架
+tile.blockITNT.name=工业TNT
+tile.blockNuke.name=核弹
+tile.blockHarz.name=树脂片
+
+tile.blockFoam.name=建筑泡沫
+tile.blockFenceIron.name=铁质栅栏
+tile.blockAlloyGlass.name=强化玻璃
+tile.blockAlloy.name=强化石头
+blockMetalCopper.name=铜块
+blockMetalTin.name=锡块
+blockMetalBronze.name=青铜块
+blockMetalUranium.name=铀块
+
+tile.blockLuminator.name=发光体
+tile.blockLuminatorMultiPart.name=发光体 (覆盖板)
+tile.blockMiningPipe.name=采矿管道
+tile.blockMiningTip.name=采矿管道
+blockMachine.name=机械方块
+blockAdvMachine.name=高级机械方块
+
+blockBatBox.name=BAT蓄电盒
+blockMFE.name=MFE
+blockMFSU.name=MFSU
+blockBatteryBox.name=电池箱
+
+blockTransformerLV.name=LV变压器
+blockTransformerMV.name=MV变压器
+blockTransformerHV.name=HV变压器
+blockTransformerEV.name=EV变压器
+blockAdjustableTranformer.name=可控变压器
+blockCreativeStorage.name=创造能量存储单元
+
+tile.chargePadLV.name=静电充能板
+tile.chargePadMV.name=晶化充能板
+tile.chargePadHV.name=兰波顿充能板
+tile.chargePadNuclear.name=裂变充能板
+
+blockGenerator.name=发电机
+blockGeoGenerator.name=地热发电机
+blockWaterGenerator.name=水力发电机
+blockSolarGenerator.name=太阳能板
+blockWindGenerator.name=风力发电机
+blockNuclearReactor.name=核反应堆
+blockSteamReactor.name=蒸汽反应堆
+blockReactorChamber.name=反应仓
+blockSteamChamber.name=蒸汽反应仓
+blockSolarLV.name=低压太阳能板
+blockSolarMV.name=中压太阳能板
+blockSolarHV.name=高压太阳能板
+blockWaterMillLV.name=低压水力发电机
+blockWaterMillMV.name=中压水力发电机
+blockWaterMillHV.name=高压水力发电机
+
+blockIronFurnace.name=铁质熔炉
+blockElecFurnace.name=电力熔炉
+blockMacerator.name=粉碎机
+blockExtractor.name=提取机
+blockCompressor.name=压缩机
+blockCanner.name=灌装机
+blockMiner.name=采矿机
+blockPump.name=泵
+blockMagnetizer.name=磁化机
+blockElectrolyzer.name=电解机
+blockRecycler.name=回收机
+blockInduction.name=感应炉
+blockMatter.name=物质生成机
+blockTerra.name=地形转换器
+blockTeleporter.name=传送器
+blockTesla.name=特斯拉线圈
+blockCropmatron.name=作物监管机
+blockSingularity.name=奇点压缩机
+blockCentrifug.name=离心提取机
+blockRotary.name=旋转粉碎机
+blockCharged.name=充能电解机
+blockVacuum.name=真空灌装机
+blockCompacting.name=致密压缩机
+blockElectricEnchanter.name=电力附魔器
+blockOreScanner.name=矿物扫描仪
+blockCropScanner.name=作物扫描仪
+blockReactorPlanner.name=反应堆规划器
+blockSoundBeacon.name=音效信标
+blockUraniumEnricher.name=铀矿浓缩机
+
+blockPersonalChest.name=私人保险箱
+blockPersonalTrader.name=贸易箱
+blockPersonalTraderEnergy.name=液体贸易箱
+blockPersonalTraderFluid.name=电力贸易箱
+
+tile.smallRFConverter.name=小型RF转换器
+tile.medRFConverter.name=中型RF转换器
+tile.HighRFConverter.name=大型RF转换器
+
+tile.smallEUConverter.name=小型EU转换器
+tile.medEUConverter.name=中型EU转换器
+tile.highEUConverter.name=大型EU转换器
+
+tile.basicTurbine.name=基础蒸汽涡轮机
+
+//Items
+
+item.itemNightvisionGoggles.name=夜视眼镜
+item.itemArmorHazmatLeggings.name=防化服护腿
+item.itemArmorHazmatChestplate.name=防化服
+item.itemArmorHazmatHelmet.name=水肺头盔
+item.itemStaticBoots.name=静电靴子
+item.itemSolarHelmet.name=太阳能头盔
+item.itemArmorLappack.name=青金石电力背包
+item.itemArmorCFPack.name=建筑泡沫背包
+item.itemArmorQuantumBoots.name=量子靴子
+item.itemArmorQuantumLegs.name=量子护腿
+item.itemArmorQuantumChestplate.name=量子胸甲
+item.itemArmorQuantumHelmet.name=量子头盔
+item.itemArmorNanoBoots.name=纳米靴子
+item.itemArmorNanoLegs.name=纳米护腿
+item.itemArmorNanoChestplate.name=纳米胸甲
+item.itemArmorNanoHelmet.name=纳米头盔
+item.itemArmorAlloyChestplate.name=复合背心
+item.itemArmorAlloyHelmet.name=复合头盔
+item.itemArmorAlloyLeggings.name=复合护腿
+item.itemArmorAlloyBoots.name=复合靴子
+item.itemArmorBatpack.name=BAT电力背包
+item.itemArmorBronzeBoots.name=青铜靴子
+item.itemArmorBronzeLegs.name=青铜护腿
+item.itemArmorBronzeChestplate.name=青铜胸甲
+item.itemArmorBronzeHelmet.name=青铜头盔
+item.itemArmorJetpackElectric.name=电力喷气背包
+item.itemArmorJetpack.name=喷气背包
+item.itemArmorRubBoots.name=橡胶靴子
+item.itemAdvancedSolarHelmet.name=高级太阳能头盔
+item.itemArmorJetpackNuclear.name=核能喷气背包
+item.itemArmorCombinedJetpack.name=致密喷气背包
+item.itemArmorNuclearCombindedJetpack.name=致密核能喷气背包
+item.itemQuantumArmorJetpack.name=量子喷气背包
+
+item.itemDebug.name=调试物品
+item.itemToolbox.name=工具箱
+item.itemToolHoe.name=电力锄
+item.itemTreetapElectric.name=电力提取器
+item.itemTreetap.name=提取器
+item.itemFoamSprayer.name=建筑泡沫喷射器
+item.itemFreq.name=频率转换器
+item.itemToolWrenchElectric.name=电力扳手
+item.itemNanoSaber.name=纳米军刀
+item.itemNanoSaberActive.name=纳米军刀
+item.itemToolCutter.name=绝缘剪刀
+item.itemToolPainterWhite.name=White喷漆
+item.itemToolPainterOrange.name=Orange喷漆
+item.itemToolPainterMagenta.name=Magenta喷漆
+item.itemToolPainterCloud.name=Light Blue喷漆
+item.itemToolPainterYellow.name=Yellow喷漆
+item.itemToolPainterLime.name=Lime喷漆
+item.itemToolPainterPink.name=Pink喷漆
+item.itemToolPainterDrakGrey.name=Dark Grey喷漆
+item.itemToolPainterLightGrey.name=Light Grey喷漆
+item.itemToolPainterCyan.name=Cyan喷漆
+item.itemToolPainterPurple.name=Purple喷漆
+item.itemToolPainterBlue.name=Blue喷漆
+item.itemToolPainterBrown.name=Brown喷漆
+item.itemToolPainterGreen.name=Green喷漆
+item.itemToolPainterRed.name=Red喷漆
+item.itemToolPainterBlack.name=Black喷漆
+item.itemToolPainter.name=Painter
+item.itemToolMeter.name=EU-Reader
+item.itemToolWrench.name=Wrench
+item.itemToolBronzeHoe.name=Bronze Hoe
+item.itemToolBronzeSpade.name=Bronze Shovel
+item.itemToolBronzeSword.name=Bronze Sword
+item.itemToolBronzeAxe.name=Bronze Axe
+item.itemToolBronzePickaxe.name=Bronze Pickaxe
+item.itemToolMiningLaser.name=Mining Laser
+item.itemToolChainsaw.name=Chainsaw
+item.itemToolDDrill.name=Diamond Drill
+item.itemToolDrill.name=Mining Drill
+item.itemRemote.name=Dynamite-O-Mote
+item.itemCropanalyzer.name=Cropnalyzer
+item.itemDynamite.name=Dynamite
+item.itemDynamiteSticky.name=Sticky Dynamite
+item.itemObscurator.name=Obscurator
+
+item.itemCellAir.name=Compressed Air Cell
+item.itemCellHydrant.name=Hydration Cell
+item.itemCellWaterElectro.name=Electrolyzed Water Cell
+item.itemCellWater.name=Water Cell
+item.itemCellBio.name=Bio Cell
+item.itemCellBioRef.name=Biofuel Cell
+item.itemCellCoal.name=H. Coal Cell
+item.itemCellCoalRef.name=Coalfuel Cell
+item.itemCellLava.name=Lava Cell
+item.itemCellEmpty.name=Empty Cell
+
+item.reactorCondensatorLap.name=LZH-Condensator
+item.reactorCondensator.name=RSH-Condensator
+item.reactorReflectorThick.name=Thick Neutron Reflector
+item.reactorReflector.name=Neutron Reflector
+item.reactorHeatpack.name=Heating Cell
+item.reactorVent.name=Heat Vent
+item.reactorVentCore.name=Reactor Heat Vent
+item.reactorVentGold.name=Overclocked Heat Vent
+item.reactorVentDiamond.name=Advanced Heat Vent
+item.reactorSteamVent.name=Steam Vent
+item.reactorSteamVentCore.name=Reactor Steam Vent
+item.reactorSteamVentGold.name=Overclocked Steam Vent
+item.reactorSteamVentDiamond.name=Advanced Steam Vent
+item.reactorElectricVent.name=Electric Heat Vent
+item.reactorElectricVentCore.name=Electric Reactor Heat Vent
+item.reactorElectricVentGold.name=Electric Overclocked Heat Vent
+item.reactorElectricVentDiamond.name=Electric Advanced Heat Vent
+item.reactorVentSpread.name=Component Heat Vent
+item.reactorHeatSwitch.name=Heat Exchanger
+item.reactorHeatSwitchCore.name=Reactor Heat Exchanger
+item.reactorHeatSwitchSpread.name=Component Heat Exchanger
+item.reactorHeatSwitchDiamond.name=Advanced Heat Exchanger
+item.reactorPlating.name=Reactor Plating
+item.reactorPlatingExplosive.name=Containment Reactor Plating
+item.reactorPlatingHeat.name=Heat-Capacity Reactor Plating
+item.reactorCoolantSimple.name=10k Coolant Cell
+item.reactorCoolantTriple.name=30k Coolant Cell
+item.reactorCoolantSix.name=60k Coolant Cell
+item.reactorIsotopeCell.name=Depleted Isotope Cell
+item.itemCellUranEnriched.name=Re-Enriched Uranium Cell
+item.itemCellUranEmpty.name=Near-depleted Uranium Cell
+item.reactorUraniumSimple.name=Uranium Cell
+item.reactorUraniumDual.name=Dual Uranium Cell
+item.reactorUraniumQuad.name=Quad Uranium Cell
+item.reactorUraniumEnderPearlSimple.name=EnderPearl Enriched Uranium Cell
+item.reactorUraniumEnderPearlDual.name=EnderPearl Enriched Dual Uranium Cell
+item.reactorUraniumEnderPearlQuad.name=EnderPearl Enriched Quad Uranium Cell
+item.reactorUraniumRedstoneSimple.name=Redstone Enriched Uranium Cell
+item.reactorUraniumRedstoneDual.name=Redstone Enriched Dual Uranium Cell
+item.reactorUraniumRedstoneQuad.name=Redstone Enriched Quad Uranium Cell
+item.reactorUraniumBlazeSimple.name=Blaze Enriched Uranium Cell
+item.reactorUraniumBlazeDual.name=Blaze Enriched Dual Uranium Cell
+item.reactorUraniumBlazeQuad.name=Blaze Enriched Quad Uranium Cell
+item.reactorUraniumNetherStarSimple.name=NetherStar Enriched Uranium Cell
+item.reactorUraniumNetherStarDual.name=NetherStar Enriched Dual Uranium Cell
+item.reactorUraniumNetherStarQuad.name=NetherStar Enriched Quad Uranium Cell
+item.reactorUraniumCharcoalSimple.name=Charcoal Enriched Uranium Cell
+item.reactorUraniumCharcoalDual.name=Charcoal Enriched Dual Uranium Cell
+item.reactorUraniumCharcoalQuad.name=Charcoal Enriched Quad Uranium Cell
+
+item.itemDepletedRedstoneEnrichedUraniumCell.name=Depleted Redstone Isotope Cell
+item.itemCellRedstoneEnrichedUranEmpty.name=Near-depleted Redstone Uranium Cell
+item.itemCellRedstoneUranEnriched.name=Re-Enriched Redstone Uranium Cell
+item.itemDepletedBlazeEnrichedUraniumCell.name=Depleted Blaze Isotope Cell
+item.itemCellBlazeEnrichedUranEmpty.name=Near-depleted Blaze Uranium Cell
+item.itemCellBlazeUranEnriched.name=Re-Enriched Blaze Uranium Cell
+item.itemDepletedEnderPearlEnrichedUraniumCell.name=Depleted EnderPearl Isotope Cell
+item.itemCellEnderPearlEnrichedUranEmpty.name=Near-depleted EnderPearl Uranium Cell
+item.itemCellEnderPearlUranEnriched.name=Re-Enriched EnderPearl Uranium Cell
+item.itemDepletedNetherStarEnrichedUraniumCell.name=Depleted NetherStar Isotope Cell
+item.itemCellNetherStarEnrichedUranEmpty.name=Near-depleted NetherStar Uranium Cell
+item.itemCellNetherStarUranEnriched.name=Re-Enriched NetherStar Uranium Cell
+item.itemDepletedCharcoalEnrichedUraniumCell.name=Depleted Charcoal Isotope Cell
+item.itemCellCharcoalEnrichedUranEmpty.name=Near-depleted Charcoal Uranium Cell
+item.itemCellCharcoalUranEnriched.name=Re-Enriched Charcoal Uranium Cell
+
+item.itemTFBP.name=TFBP - Empty
+item.itemTFBPFlatification.name=TFBP - Flatification
+item.itemTFBPDesertification.name=TFBP - Desertification
+item.itemTFBPChilling.name=TFBP - Chilling
+item.itemTFBPIrrigation.name=TFBP - Irrigation
+item.itemTFBPCultivation.name=TFBP - Cultivation
+item.itemTFBPMushroom.name=TFBP - Mushroom
+item.itemTerraformerBiomeBlueprint.name=TFBP Biome - Emtpy
+item.itemBiomeBPCultivation.name=TFBP Biome - Cultivation
+item.itemBiomeBPDesertification.name=TFBP Biome - Desertification
+item.itemBiomeBPForestification.name=TFBP Biome - Forestification
+item.itemBiomeBPIrrigation.name=TFBP Biome - Irrigation
+item.itemBiomeBPMushroom.name=TFBP Biome - Mushroom
+item.itemBiomeBPUndergrowth.name=TFBP Biome - Undergrowth
+item.itemBiomeBPChilling.name=TFBP Biome - Chilling
+
+overclockerUpgrade.name=Overclocker Upgrade
+transformerUpgrade.name=Transformer Upgrade
+energyStorageUpgrade.name=Energy Storage Upgrade
+redstoneSensitivityUpgrade.name=Redstone Sensitivity Upgrade
+redstoneInverterUpgrade.name=Redstone Inverter Upgrade
+basicItemImportUpgrade.name=Basic Import Upgrade
+itemImportUpgrade.name=Import Upgrade
+basicItemExportUpgrade.name=Basic Export Upgrade
+itemExportUpgrade.name=Export Upgrade
+mufflerUpgrade.name=Muffler Upgrade
+muteUpgrade.name=Mute Upgrade
+expCollectorUpgrade.name=Exp Collector Upgrade
+efficencyUpgrade.name=Efficency Upgrade
+energyMultiplierUpgrade.name=Energy Storage Multiplier Upgrade
+creativeUpgrade.name=Creative Upgrade
+loudnessUpgrade.name=Loudness Upgrade
+item.itemUpgradeContainer.name=Upgrade Container
+
+
+item.upgradeKit.crystalizor.name=Crystalizor Upgrade Kit
+item.upgradeKit.mfs.name=MFS Unit Upgrade
+item.upgradeKit.lapotronic.name=Lapotronic Upgrade Kit
+item.upgradeKit.fission.name=Fission Upgrade Kit
+item.padUpgrade.damage.name=Damage Conversion Module
+item.padUpgrade.drain.name=Drain Conversion Module
+item.padUpgrade.proximity.name=Proximity Booster Module
+item.padUpgrade.widebad.name=Wide-Band Booster Module
+item.padUpgrade.armorPriority.name=Armour Priority Module
+item.padUpgrade.fieldExp1.name=Basic Field Expansion Module
+item.padUpgrade.fieldExp2.name=Field Expansion Module
+item.padUpgrade.fieldExp3.name=Advanced Field Expansion Module
+
+itemCable.name=Copper Cable
+itemCableO.name=Uninsulated Copper Cable
+itemGoldCable.name=Gold Cable
+itemGoldCableI.name=Insulated Gold Cable
+itemGoldCableII.name=2xIns. Gold Cable
+itemIronCable.name=HV Cable
+itemIronCableI.name=Insulated HV Cable
+itemIronCableII.name=2xIns. HV Cable
+itemIronCableIIII.name=4xIns. HV Cable
+itemGlassCable.name=Glass Fibre Cable
+itemTinCable.name=Ultra-Low-Current Cable
+itemDetectorCable.name=EU-Detector Cable
+itemSplitterCable.name=EU-Splitter Cable
+itemBronzeCable.name=Bronze Cable
+itemBronzeCableI.name=Insulated Bronze Cable
+itemBronzeCableII.name=2xIns. Bronze Cable
+
+item.itemScrap.name=Scrap
+item.itemMatter.name=UU-Matter
+item.itemScrapMetal.name=Scrap Metal
+item.itemScrapbox.name=Scrap Box
+
+item.itemScannerAdv.name=OV Scanner
+item.itemScanner.name=OD Scanner
+item.rangedScanner.OD.name=Ranged OD Scanner
+item.rangedScanner.OV.name=Ranged OV Scanner
+item.bigRangedScanner.OD.name=Big Ranged OD Scanner
+item.bigRangedScanner.OV.name=Big Ranged OV Scanner
+item.LowOreValueScanner.name=Low OVD Scanner
+item.MedOreValueScanner.name=Medium OVD Scanner
+item.HighOreValueScanner.name=High OVD Scanner
+item.settedOreValueScanner.name=Adjustable OVD Scanner
+
+item.itemIngotUran.name=Refined Uranium Ingot
+item.itemIngotAlloy.name=Mixed Metal Ingot
+item.itemIngotBronze.name=Bronze Ingot
+item.itemIngotTin.name=Tin Ingot
+item.itemIngotCopper.name=Copper Ingot
+item.itemIngotAdvIron.name=Refined Iron Ingot
+item.itemIngotSilver.name=Silver Ingot
+item.itemRedstoneEnrichedUranium.name=Redstone Enriched Uranium Ingot
+item.itemBlazeEnrichedUranium.name=Blaze Enriched Uranium Ingot
+item.itemEnderPearlEnrichedUranium.name=EnderPearl Enriched Uranium Ingot
+item.itemNetherStarEnrichedUranium.name=NetherStar Enriched Uranium Ingot
+item.itemCharcoalEnrichedUranium.name=Charcoal Enriched Uranium Ingot
+
+item.itemDustIronSmall.name=Small Pile of Iron Dust
+item.itemDustBronze.name=Bronze Dust
+item.itemDustTin.name=Tin Dust
+item.itemDustCopper.name=Copper Dust
+item.itemDustGold.name=Gold Dust
+item.itemDustIron.name=Iron Dust
+item.itemDustCoal.name=Coal Dust
+item.itemDustClay.name=Clay Dust
+item.itemDustSilver.name=Silver Dust
+item.itemFuelCoalDust.name=Hydrated Coal Dust
+item.itemObsidianDust.name=Obsidian Dust
+item.itemFlour.name=Flour
+
+item.scrapMetalChunk.name=Scrap Metal Chunk
+item.scrapMetalBlade.name=Scrap Metal Blade
+item.itemRawObsidianBlade.name=Raw Obsidian Blade
+item.itemObsidianBlade.name=Obsidian Blade
+item.itemFuelCoalCmpr.name=H. Coal
+item.itemFuelPlantBall.name=Plantball
+item.itemFuelPlantCmpr.name=Compressed Plants
+item.itemHarz.name=Sticky Resin
+item.itemRubber.name=Rubber
+item.itemPartPellet.name=CF Pellet
+
+item.itemCoin.name=Industrial Credit
+item.itemDoorAlloy.name=Reinforced Door
+
+item.itemOreUran.name=Uranium Ore
+item.itemOreIridium.name=Iridium Ore
+item.itemPartIridium.name=Iridium Plate
+item.itemPartCoalBall.name=Coal Ball
+item.itemPartCoalBlock.name=Compressed Coal Ball
+item.itemPartCoalChunk.name=Coal Chunk
+item.itemPartCarbonMesh.name=Raw Carbon Mesh
+item.itemPartCarbonFibre.name=Raw Carbon Fibre
+item.itemPartIndustrialDiamond.name=Industrial Diamond
+
+item.itemWeedEx.name=Weed-EX
+item.itemGrinPowder.name=Grin Powder
+item.itemBarrel.name=Barrel
+item.itemHops.name=Hops
+item.coffee0.name=Cold Coffee
+item.coffee1.name=Dark Coffee
+item.coffee2.name=Coffee
+item.itemMugEmpty.name=Stone Mug
+item.itemCoffeePowder.name=Coffee Powder
+item.itemCoffeeBeans.name=Coffee Beans
+item.itemTerraWart.name=Terra Wart
+item.itemFertilizer.name=Fertilizer
+item.itemSpecialFertilizer.name=Overgrowth Fertilizer
+item.cropItem.name=%s Crop Seed
+item.cropSeedUn.name=Unknown Seeds
+item.cropSeedInvalid.name=Seed is missing data - bug?
+item.itemTeaLeaf.name=Tea Leaf
+item.itemColdTea.name=Cold Tea
+item.itemBlackTea.name=Black Tea
+item.itemIceTea.name=Ice Tea
+item.itemTea.name=Tea
+item.beerBlack.name=BlackStuff
+item.beerRum.name=Rum
+item.beerZero.name=Zero
+item.beerSolidRatio0.name=Watery 
+item.beerSolidRatio1.name=Clear 
+item.beerSolidRatio2.name=Lite 
+item.beerSolidRatio3.name=
+item.beerSolidRatio4.name=Strong 
+item.beerSolidRatio5.name=Thick 
+item.beerSolidRatio6.name=Stodge 
+item.beerSolidRatio7.name=X
+item.beerHopsRatio0.name=Soup 
+item.beerHopsRatio1.name=Alcfree 
+item.beerHopsRatio2.name=White 
+item.beerHopsRatio3.name=
+item.beerHopsRatio4.name=Dark 
+item.beerHopsRatio5.name=Full 
+item.beerHopsRatio6.name=Black 
+item.beerHopsRatio7.name=X
+item.beerTimeRatio0.name=Brew
+item.beerTimeRatio1.name=Youngster
+item.beerTimeRatio2.name=Beer
+item.beerTimeRatio3.name=Ale
+item.beerTimeRatio4.name=Dragonblood
+item.beerTimeRatio5.name=X
+item.beerTimeRatio6.name=X
+item.beerTimeRatio7.name=X
+item.emptyBarrel.name=Empty Booze Barrel
+item.filledBarrel.name=%sL Booze Barrel
+
+item.itemPartCircuit.name=Electronic Circuit
+item.itemPartCircuitAdv.name=Advanced Circuit
+item.itemPartAlloy.name=Advanced Alloy
+item.itemPartCarbonPlate.name=Carbon Plate
+item.itemPartDCP.name=Dense Copper Plate
+
+item.itemTinCan.name=Tin Can
+item.itemTinCanFilled.name=(Filled) Tin Can
+item.itemFuelCan.name=Filled Fuel Can
+item.itemFuelCanEmpty.name=(Empty) Fuel Can
+
+item.itemBatRE.name=RE-Battery
+item.itemBatRECharged.name=RE-Battery Charged
+item.itemBatSU.name=Single-Use Battery
+item.itemBatCrystal.name=Energy Crystal
+item.itemBatLamaCrystal.name=Lapotron Crystal
+
+item.itemCarbonBoat.name=Carbon Boat
+item.itemRubberBoat.name=Rubber Boat
+item.itemBrokenRubberBoat.name=Broken Rubber Boat
+item.itemElectricBoat.name=Electric Boat
+
+//Fluids
+item.itemCoolant.name=Coolant
+item.fluid.steam.name=Steam
+fluid.coolant.name=Coolant
+fluid.steam.name=Steam
+
+//Crops
+
+crop.Weed.name=Weed
+crop.Wheat.name=Wheat
+crop.Pumpkin.name=Pumpkin
+crop.Melon.name=Melon
+crop.Dandelion.name=Dandelion
+crop.Rose.name=Rose
+crop.Blackthorn.name=Blackthorn
+crop.Tulip.name=Tulip
+crop.Cyazint.name=Cyazint
+crop.Venomilia.name=Venomilia
+crop.Reed.name=Reed
+crop.Stickreed.name=Stickreed
+crop.Cocoa.name=Cocoa
+crop.Ferru.name=Ferru
+crop.Aurelia.name=Aurelia
+crop.Redwheat.name=Redwheat
+crop.NetherWart.name=Nether Wart
+crop.TerraWart.name=Terra Wart
+crop.Coffee.name=Coffee
+crop.Hops.name=Hops
+crop.Carrots.name=Carrots
+crop.Potato.name=Potato
+crop.RedMushroom.name=Red Mushroom
+crop.BrownMushroom.name=Brown Mushroom
+crop.Cacti.name=Cacti
+crop.Tea.name=Tea
+
+//Container Info
+
+container.vacuum.pressure.name=Vacuum:
+container.singularity.pressure.name=Pressure:
+container.rotary.speed.name=Speed:
+container.matter.progress.name=Progress:
+container.matter.amplifier.name=Amplifier:
+container.induction.heat.name=Heat:
+container.Compacting.speed.name=Speed:
+container.Centrifug.speed.name=Speed:
+
+container.personalTrader.totalTrades0.name=Performed
+container.personalTrader.totalTrades1.name=Trades:
+container.personalTrader.want.name=Want:
+container.personalTrader.offer.name=Offer:
+container.personalTrader.stock.name=Stock:
+container.personalTraderEnergy.paidFor.name=Paid For: %1$s EU
+container.personalTraderFluid.paidFor.name=Paid For: %1$s mB
+
+container.electricBlock.level.name=Power Level:
+container.electricBlock.output.name=Out: %1$s EU/t
+
+container.chargePad.maxIn.name=In: %1$s EU/t
+
+container.reset.name=Reset
+
+container.batteryBox.noChange.name=Even or No Energy Flow
+container.batteryBox.charging.name=Charging Time: %s
+container.batteryBox.discharging.name=Draining Time: %s
+container.batteryBox.out.name=Out: 
+
+container.cropAnalyzer0.name=UNKNOWN
+container.cropAnalyzer.CropTier.name=Tier: 
+container.cropAnalyzer.CropOwner.name=Discovered by:
+container.cropAnalyzer.Growth.name=Growth:
+container.cropAnalyzer.Gain.name=Gain:
+container.cropAnalyzer.Resis.name=Resis.:
+container.cropAnalyzer.Crop.name=%1$s - Gr: %2$s Ga: %3$s Re: %4$s
+container.cropAnalyzer.CropUnknowen.name=Unknowen Crop
+
+container.nuclearJetpack.name=Nuclear Jetpack
+container.payExp.name=Give Exp
+container.enchanterStart.name=Start
+
+container.energyStorageRedstoneMode0.name=Redstone Behavior: Nothing
+container.energyStorageRedstoneMode1.name=Redstone Behavior: Emit if full
+container.energyStorageRedstoneMode2.name=Redstone Behavior: Emit if partially filled
+container.energyStorageRedstoneMode3.name=Redstone Behavior: Emit if half or more filled
+container.energyStorageRedstoneMode4.name=Redstone Behavior: Emit if half or less filled
+container.energyStorageRedstoneMode5.name=Redstone Behavior: Emit if empty
+container.energyStorageRedstoneMode6.name=Redstone Behavior: Do not output energy
+container.energyStorageRedstoneMode7.name=Redstone Behavior: Do not output energy unless full
+
+container.batteryBoxMode0.name=Box Mode: Charging Bench Mode
+container.batteryBoxMode1.name=Box Mode: Battery Station Mode
+container.batteryBoxMode2.name=Box Mode: BatBox Mode
+container.batteryBoxNothing.name=Nothing Happend
+container.batteryBoxEnergyMode0.name=Energy Mode: Low Energy Mode
+container.batteryBoxEnergyMode1.name=Energy Mode: High Energy Mode
+container.batteryBoxEnergyMode2.name=Energy Mode: Packet Energy Mode
+
+container.plannerReset.name=Clear
+container.plannerStart.name=Start
+container.plannerStop.name=Stop
+container.plannerBackup.name=Backup
+container.plannerRestore.name=Restore
+container.plannerValidate.name=Compile
+container.plannerHeat.name=Heat
+container.plannerTicks.name=Tick
+container.plannerReactor.name=Normal
+container.plannerSteam.name=Steam
+container.plannerImport.name=Import
+container.plannerExport.name=Export
+container.plannerPotentialEU.name=Total EU: %s EU
+container.plannerPotentialHeat.name=Total Heat: %s
+container.plannerCoolingAmount.name=Vent Cooling: %s
+container.plannerHeatingAmount.name=Heat Generated: %s
+container.plannerHeatPackHeatingAmount.name=Heat (Pack) Generated: %s
+container.plannerExcessHeat.name=Excess Heating: %s
+container.plannerExcessCooling.name=Excess Cooling: %s
+container.plannerSimSpeed.name=Tick Speed/t: 
+container.plannerSimTime.name=Sim Time: %1$s / %2$s
+container.plannerMeltingPoint.name=Melting Heat: %s
+container.plannerCoreHeat.name=Core Heat: %s
+container.plannerActiveEU.name=Active EU: %s EU/t
+container.plannerProducedEU.name=Output EU: %s EU
+container.plannerReplacedTimes.name=Replaced Times: %s
+container.plannerPotentialSteam.name=Total Steam: %s mB
+container.plannerPotentialWater.name=Total Water: %s mB
+container.plannerActiveSteam.name=Active Steam: %s mB
+container.plannerActiveWater.name=Used Water: %s mB
+container.PlannerExported.name=Exported to Clipboard
+container.PlannerImported.name=Loaded From Clipboard
+container.PlannerExportedFailed.name=Failed Exporting to the Clipboard
+container.PlannerImportedFailed.name=Failed Loading from Clipboard
+
+container.adjustableTransformerEUPerPacket.name=EU/Packet: %s 
+container.adjustableTransformerPacketsPerTick.name=Max Packet/t: %s
+
+container.soundBeaconItem.name=Items
+container.soundBeaconTile.name=Blocks
+container.soundBeaconArmor.name=Armor
+container.soundBeaconRange.name=Radius: %s Blocks
+container.soundBeaconEffect.name=Effect: %s
+
+//BlockInfo
+
+blockInfo.teleporterNoTarget.name=Teleporter has no Target
+blockInfo.teleporterTarget.name=Target: Dim: %1$s, x: %2$s, y: %3$s, z: %4$s
+
+//ItemInfo
+
+itemInfo.electricHeatVent.name=Small Reactor Output Decrease
+
+itemInfo.upgradeDirection.name=Direction: %s
+itemInfo.upgradeOwner.name=Owner: %s
+itemInfo.setUpgradeDirection.name=Right Click on a Block Side to set it to the Opposite Direction %n Sneak Right on a Block Side to set it to the Direction
+itemInfo.setUpgradeOwner.name=Right Click with Side Inventory Key (%s), to set the Owner
+itemInfo.defineUpgradeOwner.name=Set Owner to: %s
+itemInfo.defineDirection.name=Set Direction to: %s
+
+itemInfo.pressShiftInfo.name=Press%1$s Shift%2$s to get Extra Infos 
+itemInfo.pressShiftOreInfo.name=Press%1$s Shift%2$s for Ore Infos
+
+itemInfo.stickyTransmitterNotLinked.name=This dynamite stick is not linked to this remote, cannot unlink.
+itemInfo.stickyTransmitterLink.name=Linked to %s dynamite
+itemInfo.clearFreqTransmitter.name=Frequency Transmitter unlinked
+itemInfo.setFreqTransmitter.name=Frequency Transmitter linked to Teleporter.
+itemInfo.targetEqualsEmitter.name=Can't link Teleporter to itself.
+itemInfo.targetNotChanged.name=Teleportation link unchanged.
+itemInfo.targetUpdated.name=Teleportation link established.
+
+itemInfo.laserMode.name=Laser Mode: %s
+itemInfo.wrongLaserAim.name=Mining laser aiming angle too steep
+
+itemInfo.scannerLevel.name=Scanning Level: %s
+itemInfo.scannerOres.name=Searching Ores:
+itemInfo.scannerResultValue.name=SCAN RESULT: Ore value in this area is %s
+itemInfo.scannerResultDensity.name=SCAN RESULT: Ore density in this area is %s
+
+itemInfo.painterAutoRefillEnabled.name=Painter automatic refill mode enabled
+itemInfo.painterAutoRefillDisabled.name=Painter automatic refill mode disabled
+
+itemInfo.storedBlock.name=Stored Block: %s
+itemInfo.storedBlockSide.name=Stored BlockSide: %s
+
+itemInfo.upgradeStoredExp.name=Stored Exp: %s
+itemInfo.creativeOnly.name=Creative Only
+
+itemInfo.energyMeterMode.name=Current Mode: %s
+itemInfo.energyMeterModeSwitchHelp.name=RightClick with Mode Switch Key (%s) to change the Mode
+itemInfo.energyMeterModeChanged.name=Change Mode to: %s
+itemInfo.energyMeterNewMeasurment.name=Starting new measurement
+itemInfo.energyMeterNone.name=None...
+itemInfo.energyMeterAverageEU.name=Measured power [EU/t]: %1$s in %2$s out %3$s gain (avg. over %4$s ticks)
+itemInfo.energyMeterSourceInfo.name=Energy Source Output Buffer: %s EU
+itemInfo.energyMeterSinkInfo.name=Energy Acceptor Limit: %s EU
+itemInfo.energyMeterConductorLoss.name=Conductor Energy loss: %s EU
+itemInfo.energyMeterConductorLimit.name=Conductor Energy limit: %s EU
+itemInfo.energyMeterTotalEmitted.name=Measured power [Total EU]: Conducted %s EU since it got Loaded
+itemInfo.energyMeterAveragePacket.name=Measured packets [EU/Packet Count] over %s ticks: 
+itemInfo.energyMeterEUPacket.name=EU: %1$s Count: %2$s
+itemInfo.energyMeterTotalPacket.name=Measured packets [EU/Packet Count] since it got Loaded:
+itemInfo.energyMeterTeleporterInfoEntity.name=Teleporter needs for Entity: %1$s with a weight of: %2$s
+itemInfo.energyMeterTeleporterInfoCost.name=and a distance of %1$s Blocks: %2$s EU
+itemInfo.energyMeterTeleporterInfoCostDim.name=and a distance of %1$s Blocks and a World Swtich: %2$s EU
+
+itemInfo.wrenchToWeak.name=Not enough energy for lossless wrench operation
+itemInfo.losslessWrenchModeEnabled.name=Lossless wrench mode enabled
+itemInfo.losslessWrenchModeDisabled.name=Lossless wrench mode disabled
+itemInfo.wrenchPickSafe.name=Can't wrench non-empty safe
+
+itemInfo.steamVentWater.name=Water Storage: %s
+itemInfo.steamVentHeat.name=Heat Consumption: %s
+itemInfo.steamVentSteam.name=Steam Production/t: %s
+
+itemInfo.jetpackHovermodeOn.name=Hover Mode enabled.
+itemInfo.jetpackHovermodeOff.name=Hover Mode disabled.
+itemInfo.jetpackAdvHoverModeOn.name=Extreme Hover Mode enabled
+itemInfo.jetpackHovermodeForcedOff.name=Disabled Hover Mode
+itemInfo.jetpackRocketModeForcedOff.naem=Dissabled Rocket Mode
+itemInfo.jetpackRocketModeOn.name=Rocket Mode enabled
+itemInfo.jetpackRocketModeOff.name=Rocket Mode disabled
+itemInfo.nuclearJetpackReactorHeat.name=Reactor Heat: %1$s / %2$s
+itemInfo.nuclearJetpackCompDamage.name=Average Reactor Part Durability: %s
+itemInfo.nuclearJetpackRocketCharge.name=Rocket Charge: %s
+itemInfo.rocketCharge.name=Rocket Charge
+itemInfo.nuclearJetpackUsage.name=Sneak RightClick To Open the GUI %n %n Average Reactor part Durability %n means only the health of all parts %n that can accept heat %n %n If there are no Reactor parts that can %n accept heat then it shows always 100% %n %n Press Mode Switch Key + Boost key to %n activate the Rocket Mode and keep the %n Boost key pressed to charge %n Alt Key (Keybinding), releases the charge
+itemInfo.jetpackArmor.name=Armor: %s
+itemInfo.armorDurablity.name=Armor Durability: %1$s / %2$s
+itemInfo.boatCharge.name=Charge: %s
+itemInfo.boatForce.name=Engine Speed: %s
+
+//plannerInfo
+plannerInfo.HeatProduction.name=Base Heat Production: %s
+plannerInfo.EnergyProduction.name=Base Energy Production: %s
+plannerInfo.SelfCooling.name=Self Heat Venting: %s
+plannerInfo.ReactorCooling.name=Reactor Heat Absorition: %s
+plannerInfo.PartCooling.name=Component Heat Cooling: %s
+plannerInfo.PartChange.name=Component Heat Transfer: %s
+plannerInfo.ReactorChange.name=Reactor Heat Transfer: %s
+plannerInfo.HeatStorage.name=Max Heat: %s
+plannerInfo.ReactorMaxHeat.name=Extra Reactor Heat: %s
+plannerInfo.ReactorEEM.name=Explosion Modifier: %s
+plannerInfo.MaxDurability.name=Max Damage: %s
+
+//laserMode
+
+laserMode.mining.name=Mining
+laserMode.low_focus.name=Low-Focus
+laserMode.long_range.name=Long-Range
+laserMode.horizontal.name=Horizontal
+laserMode.super_heat.name=Super-Heat
+laserMode.scatter.name=Scatter
+laserMode.explosive.name=Explosive
+
+//Measure Mode
+measureMode.averageEU.name=Average Measuring
+measureMode.tileInfo.name=Capabilities Measuring
+measureMode.totalEmitted.name=Total Emitted Measuring
+measureMode.packetReading.name=Packet Measuring
+measureMode.totalPackets.name=Total Packets Measuring
+
+//Achievement
+
+achievement.acquireMatter=Pink Blob
+achievement.acquireMatter.desc=Produce some UU-Matter
+achievement.acquireRefinedIron=Better than Iron
+achievement.acquireRefinedIron.desc=Smelt a refined iron ingot
+achievement.acquireResin=Sticky Situation
+achievement.acquireResin.desc=Get resin from a rubber tree with a treetap
+achievement.buildBatBox=Stash It
+achievement.buildBatBox.desc=Build a BatBox
+achievement.buildCable=Energy Flow
+achievement.buildCable.desc=Make some cables
+achievement.buildChainsaw=Lumberjack Assassin
+achievement.buildChainsaw.desc=Build a chainsaw
+achievement.buildCoalDiamond=Shiny
+achievement.buildCoalDiamond.desc=Make a coal chunk to compress into a diamond
+achievement.buildCompressor=Epic Squeeze
+achievement.buildCompressor.desc=Build a compressor
+achievement.buildDDrill=Valuable Upgrade
+achievement.buildDDrill.desc=Upgrade your mining drill to a diamond-tipped mining drill
+achievement.buildDrill=Meet the Dentist
+achievement.buildDrill.desc=Build a mining drill
+achievement.buildElecFurnace=Even Hotter Topic
+achievement.buildElecFurnace.desc=Build an electric furnace
+achievement.buildExtractor=Super Treetap
+achievement.buildExtractor.desc=Build an extractor
+achievement.buildGenerator=Suitable Power
+achievement.buildGenerator.desc=Build a generator
+achievement.buildIndFurnace=Hyperspeed
+achievement.buildIndFurnace.desc=Build an induction furnace
+achievement.buildMFE=Storage Upgrade
+achievement.buildMFE.desc=Build a MFE Unit
+achievement.buildMFS=Just Too Much
+achievement.buildMFS.desc=Build a MFS Unit
+achievement.buildMacerator=Double Trouble
+achievement.buildMacerator.desc=Build a macerator
+achievement.buildMassFab=Energy To Matter
+achievement.buildMassFab.desc=Build a Mass Fabricator
+achievement.buildMiningLaser=Laser Time
+achievement.buildMiningLaser.desc=Build a mining laser
+achievement.buildQArmor=Hi-Tech Wonder
+achievement.buildQArmor.desc=Build a piece of the quantum suit
+achievement.buildTeleporter=Intradimensional Warp
+achievement.buildTeleporter.desc=Build a Teleporter
+achievement.buildTerraformer=Change The World
+achievement.buildTerraformer.desc=Build a terraformer
+achievement.compressUranium=Radioactivity
+achievement.compressUranium.desc=Compress uranium into an uranium fuel ingot
+achievement.dieFromOwnNuke=Crazy Ivan
+achievement.dieFromOwnNuke.desc=Die from a nuke you have placed
+achievement.killCreeperChainsaw=Creeper Chainsaw Massacre
+achievement.killCreeperChainsaw.desc=Kill a creeper with a chainsaw
+achievement.killDragonMiningLaser=Like A Boss
+achievement.killDragonMiningLaser.desc=Kill the enderdragon with a mining laser
+achievement.mineOre=New Ore Miner
+achievement.mineOre.desc=Mine copper, tin or uranium
+achievement.starveWithQHelmet=Forgot to Recharge
+achievement.starveWithQHelmet.desc=Starve to death or drown with a quantum helmet
+achievement.teleportFarAway=Far Far Away
+achievement.teleportFarAway.desc=Teleport for at least 1 km
+achievement.terraformEndCultivation=Endgame Paradise
+achievement.terraformEndCultivation.desc=Terraform the End to look like the overworld
+
+//Tabs
+itemGroup.IC2=IndustrialCraft 2
+
+//Potions
+potion.radiation.name=Radiation
+
+//DamageSource
+death.electricity=%1$s was electrocuted
+death.nuke=%1$s was nuked
+death.radiation=%1$s died from radiation
+
+//BC
+
+//Energy Storage
+gate.energyStorageEmpty.name=Energy Storage Empty
+gate.energyStorageHasEnergy.name=Energy Storage Has Energy
+gate.energyStorageSpace.name=Space For Energy
+gate.energyStorageFull.name=Energy Storage Full
+gate.energyStorageItemEmptyCharge.name=Charging Empty Item
+gate.energyStorageItemPartlyCharge.name=Charging Partially Charged Item
+gate.energyStorageItemFullyCharged.name=Charging Fully Charged Item
+gate.energyStorageDrainingEmptyItem.name=Discharging Empty Item
+gate.energyStorageDrainingChargedItem.name=Discharging Partially Charged Item
+gate.energyStorageDrainingFullyChargedItem.name=Discharging Fully Charged Item
+
+//Conductors
+gate.conductorEnergyFlowing.name=Energy flowing
+gate.conductorEnergyNotFlowing.name=Energy not flowing
+
+//Fuel
+gate.hasFuel.name=含有燃料
+gate.noFuel.name=没有燃料
+
+//Machine
+gate.machineOn.name=开
+gate.machineOff.name=关
+
+//AdvMachine
+gate.fullSpeed.name=满速运行
+gate.notFullSpeed.name=未满速运行
+
+//MassFab
+gate.massFabAmplifier.name=Hash Amplifier
+gate.massFabNoAmplifier.name=No Amplifier
+
+//Waila
+wailaInfo.requireEUReader.name=需要EU读取器在快捷栏来获取数据
+wailaInfo.energySourceProvide.name=提供能量: %1$s EU
+wailaInfo.energySourcePackets.name=P/Tick: %s
+
+wailaInfo.energySinkDemainded.name=能量需求: %1$s EU
+wailaInfo.energySinkMaxInput.name=最大能量输入: %1$s EU
+
+wailaInfo.energyConductorMaxEnergy.name=Max Energy Conduction: %1$s EU
+wailaInfo.energyConductorLoss.name=EnergyLoss Per Cable: %1$s EU
+wailaInfo.energyConductorColor.name=Wire Color: %1$s
+
+wailaInfo.energyStorageStorageInfo.name=Stored Energy: %1$s / %2$s EU
+wailaInfo.energyStorageTeleporterInfo.name=Side Supports Teleporter: %s
+
+wailaInfo.energyContainerStorage.name=Stored Energy: %1$s / %2$s EU
+wailaInfo.energyContainerMaxInput.name=Max Energy Input: %1$s EU
+wailaInfo.energyContainerUsage.name=Energy Usage Per Tick: %s EU
+wailaInfo.energyContainerProduction.name=Energy Production Per Tick: %s EU
+
+wailaInfo.SinkHudOnly.name=Energy Acceptors Only
+wailaInfo.WireHudOnly.name=Wires Only
+wailaInfo.SourceHudOnly.name=Energy Providers Only
+wailaInfo.StorageHudOnly.name=Energy Storages Only
+wailaInfo.ContainerHudOnly.name=Energy Container Only
+wailaInfo.HudAll.name=Everything
+wailaInfo.HudDissabled.name=Dissabled
+wailaInfo.switchHud.name=HudMode: %s
+
+wailaInfo.yes.name=Yes
+wailaInfo.no.name=No
+
+ic2.sink.in.name=Sink Max In
+ic2.sink.req.name=Sink Requested
+ic2.storage.tele.name=Storage Teleporter Info
+ic2.storage.info.name=Storage Energy Info
+ic2.cont.info.name=Container Energy Info
+ic2.cont.in.name=Container Max In
+ic2.cont.use.name=Container Energy Use
+ic2.cont.prod=Container Energy Production
+ic2.source.prov.name=Source Max Out
+ic2.source.packets.name=Source Packets
+ic2.cable.color.name=Cable Color
+ic2.cable.max.name=Cable Max Energy
+ic2.cable.loss.name=Cable Loss
