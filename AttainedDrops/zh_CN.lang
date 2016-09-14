@@ -1,0 +1,29 @@
+//Chinese Localizations
+
+tile.blockMobDirt.name=活化土
+tile.blockMobPlant.name=奇异植物
+tile.blockConcentrateDrop.name=营养富集块
+tile.blockMobBulb.item.blazeRod.name=烈焰果实
+tile.blockMobBulb.item.enderPearl.name=末影果实
+tile.blockMobBulb.item.bone.name=白骨果实
+tile.blockMobBulb.item.slimeball.name=粘液果实
+tile.blockMobBulb.item.rottenFlesh.name=腐化果实
+tile.blockMobBulb.item.ghastTear.name=眼泪果实
+tile.blockMobBulb.item.sulphur.name=火药果实
+tile.blockMobBulb.item.string.name=丝线果实
+tile.blockMobBulb.item.spiderEye.name=蛛眼果实
+tile.blockxpObelisk.name=经验方尖碑
+tile.blockxpBall.name=经验结晶
+tile.blockxpObsidian.name=注入经验的黑曜石
+
+item.plantSeedUnlocalizedName.name=奇异植物种子
+item.lifeEssenceName.name=生命源质
+
+phrase.AttainedDrops.BlockMobPlantUpdateComment=0 - x之间取随机数决定植物是否发生更新,x越大几率就越低
+phrase.AttainedDrops.BlockMobConcetrateDropComment=0 - x之间取随机数决定活化土是否传播,x越大几率就越低
+
+phrase.AttainedDrops.DirtBlank=该活化土尚未设定培育类型
+phrase.AttainedDrops.DirtStart=活化类型:
+
+phrase.AttainedDrops.DisabledBulbChat=该物品已被禁用
+phrase.AttainedDrops.ShortXPChat=你没有足够的经验来完成它
