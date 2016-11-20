@@ -1,0 +1,26 @@
+#
+item.mceBank.MPFukuro=LostMP
+item.mceBank.MPFukuro2.name=MPbag
+mpg.commands.mpg.usage=/mpg <send|add|remove|set|list> <Player> <VALUE>
+mpg.commands.mpg.usage2=/mpg list [Player]
+mpg.commands.notActive=this command not set enable
+mpg.commands.noPermission=You do not have permission to use this command
+mpg.commands.missInteger=Value is not numeric
+mpg.commands.lowmp=Can't send MP over your MP
+mpg.commands.result.sendMP=Åòbsend to %s  %dMP
+mpg.commands.result.getMP=Åòbrecive from %s  %dMP
+mpg.commands.result.addMP=[COMMAND(MPGuard)]%dMP increase
+mpg.commands.result.reduceMP=[COMMAND(MPGuard)] %dMP decrease
+mpg.commands.result.setMP=[COMMAND(MPGuard)] %dMP set
+mpg.commands.result.list=[%s] %dMP
+mpg.itemInfo.fukuro2.1.txt=(manual)
+mpg.itemInfo.fukuro2.2.txt=item use : set your MP into this
+mpg.itemInfo.fukuro2.3.txt=put this item:
+mpg.itemInfo.fukuro2.4.txt= you can get MP from this value
+mpg.itemInfo.fukuro2.5.txt=
+mpg.itemInfo.fukuro2.6.txt=sneak & use:
+mpg.itemInfo.fukuro2.7.txt= setting one click Value
+mpg.itemInfo.fukuro2.8.txt=     on you set MP into this
+mpg.itemMessage.fukuro2.setting.txt=setting %dMP
+mpg.itemMessage.fukuro2.mpin.txt=%dMP into bag (total %dMP)
+mpg.itemMessage.fukuro2.lowmp=you can't into over you have

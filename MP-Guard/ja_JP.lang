@@ -1,0 +1,26 @@
+#
+item.mceBank.MPFukuro.name=MP袋
+item.mceBank.MPFukuro2.name=MP袋
+mpg.commands.mpg.usage=/mpg <send|add|remove|set|list> <対象プレイヤー> <金額>
+mpg.commands.mpg.usage2=/mpg list [対象プレイヤー]
+mpg.commands.notActive=このコマンドは無効に設定されています
+mpg.commands.noPermission=このコマンドを実行する権限がありません
+mpg.commands.missInteger=入力された数値が不正です
+mpg.commands.lowmp=所持MP以上のMPは送れません
+mpg.commands.result.sendMP=§b%sに %dMP 送りました
+mpg.commands.result.getMP=§b%sから %dMP 送られました
+mpg.commands.result.addMP=[COMMAND(MPGuard)]%dMP増加しました
+mpg.commands.result.reduceMP=[COMMAND(MPGuard)] %dMP 減少しました
+mpg.commands.result.setMP=[COMMAND(MPGuard)] %dMP に設定されました
+mpg.commands.result.list=[%s] %dMP
+mpg.itemInfo.fukuro2.1.txt=(使用方法)
+mpg.itemInfo.fukuro2.2.txt=アイテム使用でMPを袋にセットします。
+mpg.itemInfo.fukuro2.3.txt=アイテムを落としてから拾うと、
+mpg.itemInfo.fukuro2.4.txt=セットした分のMPを回収
+mpg.itemInfo.fukuro2.5.txt=することができます。
+mpg.itemInfo.fukuro2.6.txt=
+mpg.itemInfo.fukuro2.7.txt=スニーク＋使用で、
+mpg.itemInfo.fukuro2.8.txt=一度にセットする額を変更できます。
+mpg.itemMessage.fukuro2.setting.txt=一度のセット額を %dMP に変更しました。
+mpg.itemMessage.fukuro2.mpin.txt=%dMPセットしました (現在の総額 %dMP)
+mpg.itemMessage.fukuro2.lowmp=所持MP以上のMPはセットできません

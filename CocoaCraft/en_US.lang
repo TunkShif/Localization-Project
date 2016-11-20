@@ -1,0 +1,16 @@
+﻿
+tile.CocoaLeaves.name=Cocoa Leaves
+tile.CocoaWood.name=Cocoa Wood
+tile.CocoaSapling.name=Cocoa Sapling
+tile.Coffee.name=Coffee Plant
+
+item.Mug.name=Mug
+item.MugMilk.name=Milk
+item.MugCocoa.name=Cocoa
+item.MugWater.name=Water
+item.MugCoffee.name=Coffee
+item.CoffeeSeeds.name=Coffee Seeds
+item.RoastedCoffeeSeeds.name=Roasted Coffee Seeds
+
+achievement.HotCoffee=Hot Coffee
+achievement.HotCoffee.desc=Get a cup of coffee to keep yourself fresh

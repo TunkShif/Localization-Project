@@ -1,0 +1,16 @@
+﻿
+tile.CocoaLeaves.name=可可树叶
+tile.CocoaWood.name=可可原木
+tile.CocoaSapling.name=可可树苗
+tile.Coffee.name=可可作物
+
+item.Mug.name=杯子
+item.MugMilk.name=一杯牛奶
+item.MugCocoa.name=一杯可可
+item.MugWater.name=一杯水
+item.MugCoffee.name=一杯咖啡
+item.CoffeeSeeds.name=咖啡种子
+item.RoastedCoffeeSeeds.name=烤咖啡种子
+
+achievement.HotCoffee=热咖啡
+achievement.HotCoffee.desc=来一杯热咖啡来保持新鲜
