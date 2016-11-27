@@ -85,7 +85,7 @@ ssalmon.name=小灰鲑鱼
 ssalmon2.name=小红鲑鱼
 sspottedfeeder.name=小斑点食底泥鱼
 smossyfeeder.name=小青苔食底泥鱼
-stuna.name=小 金枪鱼
+stuna.name=小金枪鱼
 scatfish.name=小鲶鱼
 sfungus.name=小真菌鱼
 mgreenfishie.name=中绿鱼
@@ -188,7 +188,7 @@ item.shellboots_purple.name=紫贝壳靴子
 item.sharktooth.name=鲨鱼牙齿
 
 entity.Trout.name=鱼
-entity.Cave.name=Cave 鱼
+entity.Cave.name=穴居鱼
 entity.Lobster.name=龙虾
 entity.Clam.name=蛤
 entity.Salmon.name=鲑鱼
